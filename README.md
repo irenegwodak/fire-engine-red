@@ -2,6 +2,9 @@
 
 Este es el primer proyecto de maquetación completa individual realizado en el bootcamp de Adalab en agosto de 2023, aquí practiqué las bases de lo que llevaba aprendido a lo largo de la primera semana. 
 
+> **NOTA:** En julio de 2024 actualizo las dependencias y automatizaciones de Gulp, las de origen del Starter Kit de Adalab dan conflicto y no se ejecuta el programa.
+
+
 ## Reto
 
 Realizar una pequeña landing de presentación del **Fire Engine Red**. 
