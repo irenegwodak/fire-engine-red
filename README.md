@@ -20,3 +20,17 @@ Realizar una pequeña landing de presentación del **Fire Engine Red**.
 
 <img  width=200 src="./screens/mobile.png">
 <img  width=300 src="./screens/tablet-desktop.png">
+
+## DIY
+> **NOTA:** Necesitas tener instalado [Node JS](https://nodejs.org/)
+
+1. Instalar los módulos
+> npm i
+2. Iniciar proyecto
+> npm run start
+
+Para cualquier modificación en directo hay que editar los archivos en `src`.
+
+Se creará una carpeta `dist` que se ejecutará y actualizará en tu navegador gracias al `BrowserSync`.
+
+> **CTRL+C** para finalizar el proyecto
